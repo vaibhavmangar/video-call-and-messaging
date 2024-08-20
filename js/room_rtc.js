@@ -1,4 +1,4 @@
-const APP_ID = "YOUR-APP-ID"
+const APP_ID = "50f16f592bf14566b3989e29429065d0"
 
 let uid = sessionStorage.getItem('uid')
 if(!uid){
